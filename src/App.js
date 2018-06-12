@@ -53,7 +53,7 @@ class App extends Component {
             <div className="App">
                 <header className="App-header">
                     <div style={{position: "absolute", left: "0px", top: "0px"}}>
-                        <a href="https://franticsearch.github.io">
+                        <a href="https://github.com/broxp/franticsearch">
                             <img src={forkMe} width={100} height={100}/>
                         </a>
                     </div>
