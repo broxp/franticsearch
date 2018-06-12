@@ -11,3 +11,6 @@ If you search for "Modern Knight First Strike", you'll get:
 <a href="http://mtgjson.com">Powered by mtgjson.com database</Button>
 
 <a href="http://gatherer.wizards.com">Powered by gatherer.wizards.com images</Button>
+
+
+<a href="https://github.com/gitname/react-gh-pages">Uses the gh-pages react package</Button>
